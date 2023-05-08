@@ -1,8 +1,8 @@
 # ToDo-app
 To-do list website made with React JS, Tailwind CSS, TypeScript, Redux Toolkit and more.
 
-![page initiale](https://github.com/x1-il/todo-app/blob/master/public/To-Do%20List%20_%20All%20tasks.png)
-![video](https://github.com/X1-Il/ToDo-app/blob/main/public/To-Do.webm)
+![page initiale](https://raw.githubusercontent.com/x1-il/todo-app/main/public/To-Do%20List%20_%20All%20tasks.png)
+![add task](https://user-images.githubusercontent.com/120943267/236889340-925ea5b6-7b8e-43e3-8021-d568d7e9cdf7.png)
 ## Description
 
 - Applied to organize your tasks with the following data: title, description, date, mark as complete and mark as important.
