@@ -31,7 +31,7 @@ The project mainly aimed to put into practice knowledge of TypeScript, Tailwind,
 
 ## How to test
 
-You can access the project here: https://ToDo-app.netlify.app/
+You can access the project here: https://todo-app-all.netlify.app/
 
 Or run on your machine:
 
