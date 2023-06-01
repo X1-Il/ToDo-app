@@ -19,6 +19,7 @@ on:
     branches: [ "main", "pipeline" ]
   schedule:
     - cron: '15 2 * * 4'
+  workflow_dispatch:
 
 jobs:
   analyze:
